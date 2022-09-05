@@ -2,8 +2,8 @@
 
 Online game where you can face off against AI or other players.
 
-## **Live demo**
-https://tic-tac-toe-online-11df9.web.app/
+## **To Version 2**
+https://github.com/mariovyord/tic-tac-toe-online-v2 
 
 ![screenshot](screenshot.png)
 
